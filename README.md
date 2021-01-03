@@ -1,3 +1,5 @@
 # apollo movie app
 
-### Move app built with React, Apollo and GraphQL
+### Movie app client
+
+Move app built with React, Apollo and GraphQL
